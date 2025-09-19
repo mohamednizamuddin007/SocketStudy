@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+# NAME : MOHAMED NIZAMUDDIN A 
+# REGISTER NUMBER : 212224040194
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
